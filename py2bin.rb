@@ -7,10 +7,10 @@ class Py2Bin < Formula
   bottle :unneeded
 
   def install
-    bin.install "py2bin"
+    bin.install "Py2Bin"
   end
 
   test do
-    system "#{bin}/py2bin", "--version"
+    system "#{bin}/Py2Bin", "--version"
   end
 end

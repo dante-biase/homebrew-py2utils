@@ -1,6 +1,6 @@
-class py2bin < Formula
+class Py2Bin < Formula
   desc ""
-  homepage "https://github.com/dante-biase/py2app"
+  homepage "https://github.com/dante-biase/py2bin"
   url "(url omitted)"
   sha256 "(sha from step 3)"
 

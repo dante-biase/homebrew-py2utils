@@ -2,7 +2,7 @@ class Py2bin < Formula
   desc "test"
   homepage "https://github.com/dante-biase/py2bin"
   url "https://github.com/dante-biase/homebrew-py2utils/releases/download/v1.0/py2bin"
-  sha256 "545418c7a748f70a68c6e3be211e132d4d70cf99c0292ee238e13100aa062831"
+  sha256 "350535c3e28e24aa14efdd3dcfca2c0b402da971394c44670065503be631c54d"
 
   bottle :unneeded
 

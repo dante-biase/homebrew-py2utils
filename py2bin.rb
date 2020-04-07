@@ -1,4 +1,4 @@
-class Py2Bin < Formula
+class Py2bin < Formula
   desc ""
   homepage "https://github.com/dante-biase/py2bin"
   url "(url omitted)"
@@ -7,10 +7,10 @@ class Py2Bin < Formula
   bottle :unneeded
 
   def install
-    bin.install "Py2Bin"
+    bin.install "Py2bin"
   end
 
   test do
-    system "#{bin}/Py2Bin", "--version"
+    system "#{bin}/Py2bin", "--version"
   end
 end

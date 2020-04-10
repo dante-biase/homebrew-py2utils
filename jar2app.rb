@@ -2,7 +2,7 @@ class Jar2app < Formula
   desc "easily convert JAR files into Mac OS Applications"
   homepage "https://github.com/dante-biase/jar2app"
   url "https://github.com/dante-biase/homebrew-x2x/releases/download/v1.0/jar2app"
-  sha256 "f548ef452f3fb199ec02b399692104275cc61ef581c2570bf9029b1724c60bd2"
+  sha256 "46355421c617af0bf596b60a543dd59be99981f77fe6694cb14fe3c8286a4558"
 
   bottle :unneeded
 

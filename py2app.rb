@@ -2,7 +2,7 @@ class Py2app < Formula
   desc "easily convert Python file(s)/projects into Mac OS Applications"
   homepage "https://github.com/dante-biase/py2app"
   url "https://github.com/dante-biase/homebrew-x2x/releases/download/v1.0.1/py2app"
-  sha256 "2008802a062a701f06010a8ba990eab57cec0f6cfae94d5a2b4675dc34c654c6"
+  sha256 "4cdfede5b390985efa12cf62d5defd29e3efeff35ca750267f3eb067220524ec"
 
   bottle :unneeded
 
